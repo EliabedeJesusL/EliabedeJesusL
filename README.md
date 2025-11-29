@@ -14,8 +14,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50">
   <!-- CSS -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50">
-  <!-- XML (não existe ícone oficial, usando um genérico de "file-xml") -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/file-type/file-type-xml.svg" width="50">
   <!-- JavaScript -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50">
   <!-- Python -->
@@ -24,10 +22,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50">
   <!-- Java -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50">
-  <!-- SQL (não existe, então usamos MySQL que representa SQL) -->
+  <!-- MySQL -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50">
-  <!-- NoSQL (representado pelo MongoDB) -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50">
   <!-- Git -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50">
   <!-- GitHub -->
