@@ -3,7 +3,7 @@
 ---
 
 ### 🌐 Contato
-[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/SEU-LINK-AQUI)
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>](www.linkedin.com/in/eliabe-de-jesus)
 
 ---
 
